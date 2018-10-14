@@ -1,4 +1,5 @@
-# zlikun-jee-thread
+# swagger
 
-- 《Java线程 第三版》
-- 《Java并发编程的艺术》
+https://swagger.io
+
+访问：<http://localhost/v1/swagger-ui.html>
